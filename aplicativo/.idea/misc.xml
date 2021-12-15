@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Projetos Git/CRMbiblioteca/APP/aplicativo/app/src/main/res/drawable/background_botao.xml" value="0.1125" />
+        <entry key="..\:/Projetos Git/CRMbiblioteca/APP/aplicativo/app/src/main/res/drawable/background_botao_perfil.xml" value="0.11927083333333334" />
+        <entry key="..\:/Projetos Git/CRMbiblioteca/APP/aplicativo/app/src/main/res/drawable/background_caixa_comentario.xml" value="0.1125" />
+        <entry key="..\:/Projetos Git/CRMbiblioteca/APP/aplicativo/app/src/main/res/drawable/background_caixa_texto.xml" value="0.1125" />
+        <entry key="..\:/Projetos Git/CRMbiblioteca/APP/aplicativo/app/src/main/res/drawable/background_degrade.xml" value="0.1125" />
+        <entry key="..\:/Projetos Git/CRMbiblioteca/APP/aplicativo/app/src/main/res/layout/activity_cadastro.xml" value="0.5" />
+        <entry key="..\:/Projetos Git/CRMbiblioteca/APP/aplicativo/app/src/main/res/layout/activity_comentarios.xml" value="0.20416666666666666" />
+        <entry key="..\:/Projetos Git/CRMbiblioteca/APP/aplicativo/app/src/main/res/layout/activity_editar_perfil.xml" value="0.20416666666666666" />
+        <entry key="..\:/Projetos Git/CRMbiblioteca/APP/aplicativo/app/src/main/res/layout/activity_filtro.xml" value="0.1" />
+        <entry key="..\:/Projetos Git/CRMbiblioteca/APP/aplicativo/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Projetos Git/CRMbiblioteca/APP/aplicativo/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Projetos Git/CRMbiblioteca/APP/aplicativo/app/src/main/res/layout/adapter_comentario.xml" value="0.103125" />
+        <entry key="..\:/Projetos Git/CRMbiblioteca/APP/aplicativo/app/src/main/res/layout/adapter_feed.xml" value="0.1" />
+        <entry key="..\:/Projetos Git/CRMbiblioteca/APP/aplicativo/app/src/main/res/layout/adapter_filtros.xml" value="0.20416666666666666" />
+        <entry key="..\:/Projetos Git/CRMbiblioteca/APP/aplicativo/app/src/main/res/layout/adapter_pesquisa_usuario.xml" value="0.20416666666666666" />
+        <entry key="..\:/Projetos Git/CRMbiblioteca/APP/aplicativo/app/src/main/res/layout/bottom_navigation.xml" value="0.20416666666666666" />
+        <entry key="..\:/Projetos Git/CRMbiblioteca/APP/aplicativo/app/src/main/res/layout/carregamento.xml" value="0.1" />
+        <entry key="..\:/Projetos Git/CRMbiblioteca/APP/aplicativo/app/src/main/res/layout/divisor.xml" value="0.20416666666666666" />
+        <entry key="..\:/Projetos Git/CRMbiblioteca/APP/aplicativo/app/src/main/res/layout/fragment_feed.xml" value="0.22" />
+        <entry key="..\:/Projetos Git/CRMbiblioteca/APP/aplicativo/app/src/main/res/layout/fragment_perfil.xml" value="0.1" />
+        <entry key="..\:/Projetos Git/CRMbiblioteca/APP/aplicativo/app/src/main/res/layout/fragment_pesquisa.xml" value="0.1" />
+        <entry key="..\:/Projetos Git/CRMbiblioteca/APP/aplicativo/app/src/main/res/layout/fragment_postagem.xml" value="0.1" />
+        <entry key="..\:/Projetos Git/CRMbiblioteca/APP/aplicativo/app/src/main/res/layout/grid_postagem.xml" value="0.20416666666666666" />
+        <entry key="..\:/Projetos Git/CRMbiblioteca/APP/aplicativo/app/src/main/res/layout/toolbar.xml" value="0.1" />
+        <entry key="..\:/Projetos Git/CRMbiblioteca/APP/aplicativo/app/src/main/res/menu/menu_bottom_navigation.xml" value="0.20416666666666666" />
+        <entry key="..\:/Projetos Git/CRMbiblioteca/APP/aplicativo/app/src/main/res/menu/menu_filtro.xml" value="0.1" />
+        <entry key="..\:/Projetos Git/CRMbiblioteca/APP/aplicativo/app/src/main/res/menu/menu_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Projetos Git/appAdventura/aplicativo/app/src/main/res/layout/adapter_comentario.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

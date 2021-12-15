@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "260727345306",
+    "project_id": "adventura-cf5b1",
+    "storage_bucket": "adventura-cf5b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260727345306:android:4509599d995fc252f40f23",
+        "android_client_info": {
+          "package_name": "com.unicuritiba.adventura"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260727345306-79ldh50ug321sfuu5fgt5c2hcq53e4f6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.unicuritiba.adventura",
+            "certificate_hash": "b9cfd1ac5fdc800177299b22b501d48c1e73dcdf"
+          }
+        },
+        {
+          "client_id": "260727345306-b9nc12fq8h048q34hjnopg1j1uaphll0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0JtsOYa9XxfKWR1V4d8bC3WcpCX1DhT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260727345306-b9nc12fq8h048q34hjnopg1j1uaphll0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
